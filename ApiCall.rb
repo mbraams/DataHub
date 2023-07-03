@@ -1,4 +1,4 @@
-require 'httParty'
+require 'httparty'
 module ApiCall
   def self.call(ontId, apiUrl)   
     # Request with error handling
